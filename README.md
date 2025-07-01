@@ -22,7 +22,7 @@ It was created for use as a fun ringtone or any other personal, light-hearted pu
 ## ⚖️ License & usage
 
 This file is intended for **personal, non-commercial fun** only.  
-Make sure you have the rights to any source materials if you share or remix it further.
+
 
 ---
 
